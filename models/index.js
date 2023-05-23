@@ -33,3 +33,10 @@ module.exports = {
   Tag,
   ProductTag,
 };
+
+module.exports = {
+  Product,
+  Category,
+  Tag,
+  ProductTag,
+};
